@@ -1,2 +1,3 @@
 # plotJuros
-Plotagem De Juros
+
+Plotagem De Juros usando a biblioteca matplotlib em Python 
